@@ -1,20 +1,23 @@
-# source
-step1
-create a file,
-storage,
-step2
-.gitingore,
+#  SOURCE Project
 
-step 3
-create a branch
-fea,
-dev,
-rel,
+##  Created Files
+-  storage
+- mys3pulllS
+- README.md
 
-step 4
-create a pull request and merge,
+##  Branches
+- main (default)
+- master
+- dev1 (development branch)
+- fet1 (feature branch)
 
-step 5
-create tags
-tag v1.1,
-tag v2.2,
+##  Pull Requests & Merging
+- Pull requests were created to merge fet1 into dev1
+- Final merge to main for release
+
+##  Git Tags (Releases)
+- v1.0 – Initial version
+- v2.0 – Second release
+
+##  Notes
+- Used Git best practices for commits, branching, and tagging
